@@ -29,9 +29,6 @@ algunas estadísticas.
 Mediante npm:
 #### `$ npm i bethzyortega-mdlinks -g`
 
-Mediante repo de github:
-#### ``
-
 ## 3. Uso
 
 Para acceder se debe importar con  require('bethzyortega-mdlinks').
