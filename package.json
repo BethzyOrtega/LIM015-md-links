@@ -7,7 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "api": " node src/api.js",
+    "mdlinks": "node src/mdlinks.js" 
   },
   "bin": {
     "md-links": "src/cli.js"
